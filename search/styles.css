@@ -1,0 +1,6 @@
+/* Google Search Styles */
+/* Resetting box-sizing to have a consistent box model */
+* {
+    box-sizing: border-box;
+  }
+  
